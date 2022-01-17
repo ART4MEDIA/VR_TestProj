@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E4EB507A-4CAD-8E71-5469-A3836F7B9EB7}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"HoloLens",
+		"WindowsNoEditor",
+		"AllDesktop"
+	]
+}
