@@ -11,8 +11,6 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"HoloLens",
-		"WindowsNoEditor",
-		"AllDesktop"
+		"WindowsNoEditor"
 	]
 }
