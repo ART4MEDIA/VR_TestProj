@@ -1,11 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{89E9944F-4835-E5CC-7411-03930F778DC0}",
+	"EngineAssociation": "{E4EB507A-4CAD-8E71-5469-A3836F7B9EB7}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "SimpleHMD",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
 	],
